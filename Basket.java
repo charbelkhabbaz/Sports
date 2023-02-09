@@ -6,5 +6,10 @@ public class Basket{
 	System.out.print("give the numbers of players then gamers ");
 	players = scan.nextInt();
 	gamers= scan.nextInt();
+
+
+
+
+		hobyyyyyyyyyyyyyyyyyyyyyyyy
 	}
 }
